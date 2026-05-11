@@ -9,6 +9,7 @@
 - [_omega_10811](./_omega_10811)
 - [download](./download)
 - [index](./index)
+- [v2rayN-windows-64](./v2rayN-windows-64)
 
 ---
 
