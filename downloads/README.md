@@ -5,6 +5,7 @@
 - [DXVACheeler](./DXVACheeler)
 - [Hiddify-Windows-Setup-x64](./Hiddify-Windows-Setup-x64)
 - [MPC-HCPortable_2.7.1.paf](./MPC-HCPortable_2.7.1.paf)
+- [TunnelX-v1.2.24-standalone-compressed](./TunnelX-v1.2.24-standalone-compressed)
 - [_lambda_15922](./_lambda_15922)
 - [_omega_10811](./_omega_10811)
 - [download](./download)
