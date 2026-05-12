@@ -9,6 +9,7 @@
 - [_omega_10811](./_omega_10811)
 - [download](./download)
 - [index](./index)
+- [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [v2rayN-windows-64](./v2rayN-windows-64)
 
 ---
